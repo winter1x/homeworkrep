@@ -1,2 +1,5 @@
-num = int(input())
+num1 = int(input())
+print(num)
+
+num12 = int(input())
 print(num)
